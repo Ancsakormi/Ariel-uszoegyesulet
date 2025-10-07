@@ -23,18 +23,16 @@ Ezekből a sorokból látható, hogy milyen mérhetetlenül sokrétű az úszás
 
 - Legfrissebb hírek, események
 - Legfrissebb bejelentések, üzenetek, fontos tudnivalók, versenyek.
-- Ide létrehoztunk egy eseménynaptárat
+- Ide betettünk egy táblázatot az edések időpontjairól
 
 ## Elért eredményeink
 Mikor-hol volt a verseny, kik voltak a résztvevők, milyen eredményeket értek el.
 
 ## Kapcsolat 
-- Tartalmazza az elérhetőségeinket. (Telefonszám, email-cím.)
+- Tartalmazza az elérhetőségeinket. (Telefonszám, email-cím, cím)
 - Egy űrlap is található itt, amelyen keresztül jelentkezhetnek az érdeklődők a programokra vagy kérdéseket küldhetnek nekünk, a szervezőknek.
 
-## Hozzászólás, vélemények
-
-Ezzel a kiegészítő funkcióval 
+ 
 
 
 
